@@ -5,7 +5,7 @@ import 'package:chat_app/SplashScreen/index.dart';
 import 'package:chat_app/UsersFeedScreen/index.dart';
 import 'package:chat_app/Message/index.dart';
 
-bool kReleaseMode = false;
+bool kReleaseMode = true;
 
 void main() {
   runApp(
